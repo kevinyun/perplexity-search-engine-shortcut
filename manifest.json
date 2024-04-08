@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
-  "name": "Perplexity AI Default Search Engine",
-  "description": "Start your Perplexity AI searches right from the browser URL bar, instead of manually having to navigate to Perplexity to start your search.",
+  "name": "Perplexity AI Search",
+  "description": "Just type 'perplexity.ai' in the URL bar, press Tab, and start your search. No more navigating to Perplexity manually to search.",
   "version": "1.0",
   "action": {
     "default_icon": {

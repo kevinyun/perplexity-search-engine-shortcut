@@ -1,6 +1,6 @@
 # perplexity-search-engine-shortcut
 
-This will set a shortcut to Perplexity AI (https://perplexity.ai) so that you can start your searches right from the Chrome omnibox, instead of having to manually navigate to Perplexity then entering in your search.
+Just type 'perplexity.ai' in the Chrome URL bar, press Tab, and start your search. This extension lets you start your Perplexity AI searches right from the Chrome omnibox, instead of manually having to navigate to Perplexity to start your search.
 
 
 
